@@ -1,0 +1,8 @@
+# deps for app
+bottle
+bottle-sqlalchemy
+pymysql
+
+# deps for pytest
+pytest
+allure-pytest
